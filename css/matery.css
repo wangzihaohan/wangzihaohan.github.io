@@ -560,9 +560,10 @@ header .go-back i {
     height: 40vh !important;
 }
 
+ /* 修改主页渐变色 */
 .bg-cover:after {
-    -webkit-animation: rainbow 60s infinite;
-    animation: rainbow 60s infinite;
+    /* -webkit-animation: rainbow 60s infinite; */
+    /* animation: rainbow 60s infinite; */
 }
 
 .bg-cover:before,
