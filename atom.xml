@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mr.Han的博客</title>
+  
+  <subtitle>Mr.Han的博客</subtitle>
+  <link href="http://wangzihaohan.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://wangzihaohan.github.io/"/>
+  <updated>2021-09-26T06:57:29.621Z</updated>
+  <id>http://wangzihaohan.github.io/</id>
+  
+  <author>
+    <name>瀚堡君</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>最快速地搭建绚丽的个人网站or博客</title>
+    <link href="http://wangzihaohan.github.io/2021/092563666.html"/>
+    <id>http://wangzihaohan.github.io/2021/092563666.html</id>
+    <published>2021-09-25T14:30:44.000Z</published>
+    <updated>2021-09-26T06:57:29.621Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;网站搭建&quot;&gt;&lt;a href=&quot;#网站搭建&quot; class=&quot;headerlink&quot; title=&quot;网站搭建&quot;&gt;&lt;/a&gt;网站搭建&lt;/h1&gt;&lt;h2 id=&quot;1-nodejs，Git环境搭建&quot;&gt;&lt;a href=&quot;#1-nodejs，Git环境搭建&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="web" scheme="http://wangzihaohan.github.io/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://wangzihaohan.github.io/2021/092516107.html"/>
+    <id>http://wangzihaohan.github.io/2021/092516107.html</id>
+    <published>2021-09-25T02:13:56.724Z</published>
+    <updated>1985-10-26T08:15:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
